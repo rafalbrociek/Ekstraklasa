@@ -8,14 +8,15 @@ namespace EkstraklasaModel
 {
     public class PredictedResult
     {
-        public Match Match { get; }
-        public int PredictedHostGoals { get; }
-        public int PredictedVisitorGoals { get; }
-        public PredictedResult(Match match, int hostGoals, int visitorGoals)
-        {
-            Match = match;
-            PredictedHostGoals = hostGoals;
-            PredictedVisitorGoals = visitorGoals;
-        }
+        public int PredictedResultId { get; set; }
+        public Match Match { get; set; }
+        public int PredictedHostGoals { get; set; }
+        public int PredictedVisitorGoals { get; set; }
+        //public PredictedResult(Match match, int hostGoals, int visitorGoals)
+        //{
+        //    Match = match;
+        //    PredictedHostGoals = hostGoals;
+        //    PredictedVisitorGoals = visitorGoals;
+        //}
     }
 }

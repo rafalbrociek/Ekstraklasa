@@ -8,15 +8,15 @@ namespace EkstraklasaModel
 {
     public class Bet
     {
+        public int BetId { get; set; }
         public User UserOwner { get; set; }
-        public Round Round { get; set; }
-        List<PredictedResult> PredictedResults { get; set; }
-        //public void AddResult(PredictedResult result)
-        // TODO: Builder to ustawienia wyników meczów w całej kolejce
-        public Bet(User userOwner, Round round)
-        {
-            UserOwner = userOwner;
-            Round = round;
-        }
+        public Match Match { get; set; }
+        PredictedResult PredictedResult { get; set; }
+
+        //public Bet(User userOwner, Round round)
+        //{
+        //    UserOwner = userOwner;
+        //    Round = round;
+        //}
     }
 }

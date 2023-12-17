@@ -2,13 +2,15 @@
 {
     public class Team
     {
-        public string Name { get; private set; }
-        public string City { get; private set; }
+        public int TeamId { get; set; }
+        public string Name { get; set; }
+        public string City { get; set; }
+        public List<Player> Players { get; } = new();
 
-        public Team(string name, string city)
-        {
-            this.Name = name;
-            this.City = city;
-        }
+        //public Team(string name, string city)
+        //{
+        //    this.Name = name;
+        //    this.City = city;
+        //}
     }
 }

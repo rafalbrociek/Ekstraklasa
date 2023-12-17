@@ -8,17 +8,18 @@ namespace EkstraklasaModel
 {
     public class Season
     {
-        public List<Round> FirstRounds { get; set; } = new List<Round>();
-        public List<Round> SecondRounds { get; set; } = new List<Round>();
-        public void AddRound(Round round)
-        {
-            FirstRounds.Add(round);
-            SecondRounds.Add(new Round(round));
-        }
-        public string Name { get; set; }
-        public Season(string name)
-        {
-            Name = name;
-        }
+        public int SeasonId { get; set; }
+        public List<Round> FirstRounds { get; } = new();
+        public List<Round> SecondRounds { get; } = new();
+        //public void AddRound(Round round)
+        //{
+        //    FirstRounds.Add(round);
+        //    SecondRounds.Add(new Round(round));
+        //}
+        //public string Name { get; set; }
+        //public Season(string name)
+        //{
+        //    Name = name;
+        //}
     }
 }

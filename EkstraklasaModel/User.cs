@@ -8,12 +8,14 @@ namespace EkstraklasaModel
 {
     public class User
     {
-        string Name { get; set; }
-        string Login { get; set; }
-        public User(string name, string login)
-        {
-            Name = name;
-            Login = login;
-        }
+        public int UserId { get; set; }
+        public string Name { get; set; }
+        public string Login { get; set; }
+        public List<Bet> Bets { get; } = new();
+        //public User(string name, string login)
+        //{
+        //    Name = name;
+        //    Login = login;
+        //}
     }
 }

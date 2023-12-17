@@ -1,0 +1,15 @@
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\bin\Debug\net8.0\EkstraklasaModel.deps.json
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\bin\Debug\net8.0\EkstraklasaModel.runtimeconfig.json
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\bin\Debug\net8.0\EkstraklasaModel.dll
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\bin\Debug\net8.0\EkstraklasaModel.pdb
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.csproj.AssemblyReference.cache
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.AssemblyInfoInputs.cache
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.AssemblyInfo.cs
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.csproj.CoreCompileInputs.cache
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.sourcelink.json
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.dll
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\refint\EkstraklasaModel.dll
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.pdb
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\EkstraklasaModel.genruntimeconfig.cache
+D:\Lab\Web Application\Ekstraklasa\EkstraklasaModel\EkstraklasaModel\obj\Debug\net8.0\ref\EkstraklasaModel.dll
